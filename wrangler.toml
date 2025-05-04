@@ -1,8 +1,0 @@
-name = "sveltekit-email-cloudflare"
-
-# You can specify the account_id and zone_id if you plan to bind it to a domain
-# account_id = "your-cloudflare-account-id"
-# zone_id = "your-zone-id"
-
-pages_build_output_dir = ".svelte-kit/cloudflare"
-compatibility_date = "2023-11-19"
